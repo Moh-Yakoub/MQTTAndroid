@@ -7,5 +7,5 @@ http://www.eclipse.org/paho/
 https://github.com/adamvr/MQTT.js
 
 3 - Check the documentation of MQTT Protocol.
-http://mqtt.org/MQTT-S_spec_v1.1.pdf
+http://mqtt.org/
 
